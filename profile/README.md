@@ -1,4 +1,4 @@
-# Python Introductory Courses at Columbia
+# Python Introductory Courses at Columbia University
 
 This organization collects material for the following introductory Python courses offered by the Computer Science Department at Columbia University:
 
